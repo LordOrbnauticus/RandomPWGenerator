@@ -4,9 +4,9 @@
 Version=1.0
 Name=RandomPWGen
 Comment=RANDOM PASSWORD GENERATOR!!!
-Exec=python /home/lordorbnauticus/Documents/Dev/Projects/RandomPWGen.py
+Exec=[python .py Path]
 Icon=/usr/share/pixmaps/python.xpm
-Path=/home/lordorbnauticus/Documents/Dev/Projects/RandomPWGen/
+Path=[path to the folder]
 Terminal=True
 StartupNotify=true
 Type=Application
