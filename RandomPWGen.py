@@ -1,6 +1,6 @@
 import random
 
-chars = 'abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*(-_=+)'
+chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*(-_=+)'
 password = ''
 
 print('Password Generator')
@@ -10,5 +10,5 @@ length = int(length)
 
 for i in range(length):
     password += random.SystemRandom().choice(chars)
-print(password)
+print("Password: ", password)
 

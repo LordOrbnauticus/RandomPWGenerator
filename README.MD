@@ -1,6 +1,6 @@
 # Python Password Generator
 
-I've been having to use this a lot in the past few days... Figure I could just go a head and write it up so I can have it reado on all my devices... :information_desk_person:
+I've been having to use this a lot in the past few days... Figure I could just go a head and write it up so I can have it ready on all my devices... :information_desk_person:
 
 There is a .desktop file I'll need to edit for all my linux needs:
 
